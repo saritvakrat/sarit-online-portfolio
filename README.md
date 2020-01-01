@@ -22,3 +22,5 @@ yarn start
 1. npm run predeploy
 2. npm run deploy
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bed646cc-da92-4236-98d7-4ffd15497c1c/deploy-status)](https://app.netlify.com/sites/sarit-vakrat-portfolio/deploys)
+
