@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sarit-online-portfolio/precache-manifest.658921cdeda2851f736f0ea8c75b0be4.js"
+  "/sarit-online-portfolio/precache-manifest.e868f6e2e9e0fbdb22b76079f1c960b2.js"
 );
 
 self.addEventListener('message', (event) => {
