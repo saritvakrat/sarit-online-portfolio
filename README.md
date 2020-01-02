@@ -8,7 +8,7 @@ https://gitconnected.com/v1/portfolio/ <YOUR_USERNAME>
 ## Instructions
 ```
 git clone git@github.com:ActoMatics/sarit-online-portfolio.git
-cd portfolio-create-react-app
+cd sarit-online-portfolio
 yarn install
 yarn start
 ```
