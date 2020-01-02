@@ -24,7 +24,6 @@ const UserHeader = ({ user }) => {
           <p>{user.basics.label}</p>
           <p>Coding in TypeScript, NodeJS, JavaScript</p>
           <p>{user.basics.yearsOfExperience} years of experience as a developer</p>
-          <p>{user.basics.headline}</p>
           <p>
             Blog:{' '}
             <a href={'https://medium.com/@saritvakrat'} target="_blank" rel="noreferrer noopener">
