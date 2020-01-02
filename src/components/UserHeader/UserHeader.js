@@ -14,21 +14,21 @@ const UserHeader = ({ user }) => {
           <h2>{user.basics.name}</h2>
           <h4>
             <a
-              href={`https://gitconnected.com/${user.basics.usernameCaseSensitive}`}
+              href={`https://gitconnected.com/ActoMatics`}
               target="_blank"
               rel="noreferrer noopener"
             >
-              @{user.basics.usernameCaseSensitive}
+              @{user.basics.ActoMatics}
             </a>
           </h4>
           <p>{user.basics.label}</p>
-          <p>Coding in {user.basics.region}</p>
+          <p>Coding in TypeScript, NodeJS, JavaScript</p>
           <p>{user.basics.yearsOfExperience} years of experience as a developer</p>
           <p>{user.basics.headline}</p>
           <p>
             Blog:{' '}
-            <a href={user.basics.blog} target="_blank" rel="noreferrer noopener">
-              {user.basics.blog}
+            <a href={'https://medium.com/@saritvakrat'} target="_blank" rel="noreferrer noopener">
+              {'https://medium.com/@saritvakrat'}
             </a>
           </p>
         </div>
