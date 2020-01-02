@@ -2,7 +2,7 @@
   "name": "sarit-portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://ActoMatics.github.io/sarit-online-portfolio",
+  "homepage": "http://ActoMatics.github.io/",
   "dependencies": {
     "@carbon/icons-react": "^10.8.0",
     "@carbon/themes": "^10.9.0",
